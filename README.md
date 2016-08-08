@@ -1,4 +1,4 @@
-# Wireless-433Mhz-Rain-Sensor
+# Wireless-433Mhz-Rain-Sensor (Part 1 The Transmitter)
 Arduino-based wireless rain sensor
 
 Oh no! It's raining and the washing (or cat) is still out! It's VERY easy to create a wireless rain sensor that communicates via a 433Mhz (or 315Mhz) wireless link giving you that all important heads-up that the weather has changed.
